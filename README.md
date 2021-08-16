@@ -6,8 +6,9 @@ Inside this module, you will find:
 3. What is Boostrap
 4. Basic JavaScript
 5. JavaScript Cont'd
-6. Intro to React.JS from [learn-react-app](test)
-7. MongoDB (noSQL)
+6. JSON
+7. Intro to React.JS from [learn-react-app](test)
+8. MongoDB (noSQL)
 ___
 Cloud Services, REST API, HTTP Methods and Sessions
 1. HTTP Methods and Sessions
