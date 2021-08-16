@@ -1,8 +1,16 @@
 ﻿# PPIA-Training
+
+[Contribution](HUMANS.txt) | [Assumption]() || [Table of Content]() || [Next Project & Assumptions]()
+
 Inside this module, you will find:
+1. [Basic]()
+2. [Cloud]()
+3. [Extra Materials]()
+4. [Helper Tools]()
 
-[Contribution](HUMAN.txt)
 
+
+___
 ## Basic
 1. Working with Git and GitHub
 2. A quick introduction to HTML & CSS
@@ -22,5 +30,12 @@ ___
 1. Agile Vs DevOps
 2. Python (for Django)
 3. Know your RDBMS
+4. Software Infrastructure and Architecture
 ___
-#### Extra Tools
+#### Helper Tools
+
+___
+#### Certification
+1. [UX Design Certification by Google]()
+2. [AWS]() 
+3. [Azure AZ-900]()
