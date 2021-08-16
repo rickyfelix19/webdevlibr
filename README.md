@@ -1,6 +1,8 @@
 ﻿# PPIA-Training
 Inside this module, you will find:
 
+[Contribution](HUMAN.txt)
+
 ## Basic
 1. Working with Git and GitHub
 2. A quick introduction to HTML & CSS
@@ -20,3 +22,5 @@ ___
 1. Agile Vs DevOps
 2. Python (for Django)
 3. Know your RDBMS
+___
+#### Extra Tools
