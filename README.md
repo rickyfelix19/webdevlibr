@@ -33,6 +33,11 @@ ___
 4. Software Infrastructure and Architecture
 5. npm packages
 ___
+### Security
+1. Networking Fundamentals
+2. CyberSecuirty
+3. Penetration Testing
+___
 #### Helper Tools
 
 ___
