@@ -1,6 +1,6 @@
 ﻿# PPIA-Training
 
-[Contribution](HUMANS.txt) | [Assumption]() || [Table of Content]() || [Next Project & Assumptions]()
+[Contribution](HUMANS.txt) | [Assumption]() | [Table of Content]() | [Next Project & Assumptions]()
 
 Inside this module, you will find:
 1. [Basic]()
