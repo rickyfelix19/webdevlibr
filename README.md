@@ -15,11 +15,11 @@ ___
 1. Working with Git and GitHub
 2. A quick introduction to HTML & CSS
 3. What is Boostrap
-4. Basic JavaScript
+4. Basic JavaScript & JSON
 5. JavaScript Cont'd
-6. JSON
 7. Intro to React.JS from [learn-react-app](test)
 8. MongoDB (noSQL)
+9. JavaScript Framework -> MERN
 ___
 ### Cloud Services, REST API, HTTP Methods and Sessions
 1. HTTP Methods and Sessions
@@ -31,6 +31,7 @@ ___
 2. Python (for Django)
 3. Know your RDBMS
 4. Software Infrastructure and Architecture
+5. npm packages
 ___
 #### Helper Tools
 
