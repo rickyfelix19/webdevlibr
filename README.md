@@ -47,6 +47,9 @@ ___
 4. GraphQl
 5. AWS, Azure, Google Cloud Platform
 
+### In-Depth:
+1. CSS, SCSS
+
 ___
 ## Tools
 
