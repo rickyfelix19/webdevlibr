@@ -1,12 +1,12 @@
-﻿# PPIA-Training
+# PPIA-Training
 
 [Contribution](HUMANS.txt) | [Assumption]() | [Table of Content]() | [Next Project & Assumptions]()
 
 Inside this module, you will find:
 1. [Basic]()
-2. [Cloud]()
-3. [Extra Materials]()
-4. [Helper Tools]()
+2. [Extra]()
+3. [Management]()
+4. [Helper Website]()
 
 ### Next Project & Assumption:
 
@@ -19,29 +19,35 @@ ___
 5. JavaScript Cont'd
 7. Intro to React.JS from [learn-react-app](test)
 8. MongoDB (noSQL)
-9. JavaScript Framework -> MERN
-___
-### Cloud Services, REST API, HTTP Methods and Sessions
-1. HTTP Methods and Sessions
-2. REST API and GraphQl
-3. AWS, Azure, Google Cloud Platform
-___
-### Extra Materials:
-1. Agile Vs DevOps
-2. Python (for Django)
-3. Know your RDBMS
-4. Software Infrastructure and Architecture
-5. npm packages
-___
-### Security
-1. Networking Fundamentals
-2. CyberSecuirty
-3. Penetration Testing
-___
-#### Helper Tools
+9. HTTP Methods and Sessions
+
+### Advanced: 
+1. npm packages
+2. JavaScript Framework -> MERN
+3. REST API
 
 ___
-#### Certification
+## Extra Materials:
+
+### Information System 
+1. Know your RDBMS
+2. Software Infrastructure and Architecture
+
+### Cloud Services
+1. Networking Fundamentals
+2. CyberSecurity
+3. Penetration Testing
+4. GraphQl
+5. AWS, Azure, Google Cloud Platform
+
+### Management
+1. Agile Vs DevOps
+
+___
+#### Helper Website
+
+
+#### Certification to lookout
 1. [UX Design Certification by Google]()
 2. [AWS]() 
 3. [Azure AZ-900]()
