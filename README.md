@@ -12,9 +12,9 @@ This are mostly notes, just because you have this and went through all of this ,
 Inside this module, you will find:
 1. [Basic]()
 2. [Extra]()
-3. [Management]()
-4. [Tools]()
+3. [Tools]()
 
+This whole repo is insipired by: The Modern JavaScript - [Website](https://javascript.info/) [Github](https://github.com/javascript-tutorial/en.javascript.info/tree/master)
 ___
 ## Basic
 1. Working with Git and GitHub
