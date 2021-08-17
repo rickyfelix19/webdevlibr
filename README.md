@@ -1,19 +1,19 @@
 # PPIA-Training
-
 [Contribution](HUMANS.txt) | [Assumption]() | [Table of Content]() | [Assumptions]() | [Reference]()
+
+##### Advices:
+This are mostly notes, just because you have this and went through all of this , doensn't mean you'll suddenly become a Unicorn.
+- [Watch: The Art of Finishing Project](https://www.youtube.com/watch?v=mmqok1dJrVs)
+- You don't have to master everything, most of this stuff here are for Web Development
+- if you're interested in somewhere else, then try it and give it a go for a couple of months (and projects)
+- Find you goal (or project), then divide it into smaller parts and spend a few hours in it everyday as your side projects
+
 
 Inside this module, you will find:
 1. [Basic]()
 2. [Extra]()
 3. [Management]()
 4. [Tools]()
-
-### Advices:
-This are mostly notes, just because you have this and went through all of this , doensn't mean you'll suddenly become a Unicorn.
-- [Watch: The Art of Finishing Project](https://www.youtube.com/watch?v=mmqok1dJrVs)
-- You don't have to master everything, most of this stuff here are for Web Development
-- if you're interested in somewhere else, then try it and give it a go for a couple of months (and projects)
-- Find you goal (or project), then divide it into smaller parts and spend a few hours in it everyday as your side projects
 
 ___
 ## Basic
