@@ -14,7 +14,7 @@ Inside this module, you will find:
 2. [Extra]()
 3. [Tools]()
 
-This whole repo is insipired by: The Modern JavaScript - [Website](https://javascript.info/) [Github](https://github.com/javascript-tutorial/en.javascript.info/tree/master)
+This whole repo is insipired by: The Modern JavaScript - [Website](https://javascript.info/) and [Github](https://github.com/javascript-tutorial/en.javascript.info/tree/master)
 ___
 ## Basic
 1. Working with Git and GitHub
