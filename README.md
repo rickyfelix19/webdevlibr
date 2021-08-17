@@ -29,9 +29,10 @@ ___
 ___
 ## Extra Materials:
 
-### Information System 
-1. Know your RDBMS
-2. Software Infrastructure and Architecture
+### Management & Information System 
+1. Waterfall vs Agile vs DevOps
+2. Know your RDBMS
+3. Software Infrastructure and Architecture
 
 ### Cloud Services
 1. Networking Fundamentals
@@ -39,9 +40,6 @@ ___
 3. Penetration Testing
 4. GraphQl
 5. AWS, Azure, Google Cloud Platform
-
-### Management
-1. Agile Vs DevOps
 
 ___
 #### Helper Website
