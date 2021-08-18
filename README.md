@@ -66,6 +66,10 @@ This whole repo is insipired by:
 
 ---
 
+### Website
+
+1. [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist)
+
 ### Certification to lookout
 
 1. [UX Design Certification by Google]()
