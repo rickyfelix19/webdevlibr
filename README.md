@@ -4,7 +4,9 @@
 
 <h2>Assumption<a name="assume"></a></h2>
 
-It is important that this needs to be address. Learning everything in this repo will absolutely not make you a brilliant programmer out of nowhere. This are mostly notes, just because you have this and went through all of this , doesn't mean you'll suddenly become a [Unicorn](https://easternpeak.com/blog/3-in-1-developer-a-jack-of-all-trades-or-a-unicorn/). The only way possible to be an expert in a certain field is to work on a project, whether it is small or big. Here are some example that you can use:
+It is important to make an assumption of this repo.
+
+For starters, learning everything in this repo will absolutely not make you a brilliant programmer out of nowhere. These are mostly notes; just because you have this and went through all of this doesn't make you a [Unicorn](https://easternpeak.com/blog/3-in-1-developer-a-jack-of-all-trades-or-a-unicorn/). The only way to be an expert in a particular field of work is to start on a project, whether small or big. Here are some examples that you can use:
 
 - Build a simple login and logout website (webdev)
 - Make a simple CRUD website (full stack)
@@ -12,10 +14,9 @@ It is important that this needs to be address. Learning everything in this repo 
 - Use your assignment but change the language
 - Learn Data Structures & Algorithms
 
-It is important to address the fact that almost all of the materials are only meant for Web Development(for now)
+> It is vital to address that almost all of the materials here are only meant for Web Developer / Full Stack Development roles (for now). The next step of this project is to make it open source and have as many people contributing to this. Most of the materials are currently linked to another website instead of using a summary. This will also change in future updates.
 
-`The next step of this project is to make it open source and have as many people contributing to this.`
-To make things simpler, `Github Actions` have been created for this repository, to help out with making future updates.
+To simplify things for future updates, `Github Actions` has been created for this repository to help make future updates.
 
 ---
 
@@ -123,6 +124,6 @@ This whole repo is inspired by:
 
 - [Watch: The Art of Finishing Project](https://www.youtube.com/watch?v=mmqok1dJrVs)
 - [Don't ask to ask, just ask](https://dontasktoask.com/)
-- You don't have to master everything, most of this stuff here are for Web Development
+- You don't have to master everything, again, most of this stuff here are for Web Development / Full Stack Developer Role
 - if you're interested in somewhere else, then try it and give it a go for a couple of months (and projects)
 - Find you goal (or project), then divide it into smaller parts and spend a few hours in it everyday as your side projects
