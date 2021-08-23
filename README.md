@@ -8,11 +8,12 @@ This whole repo is inspired by:
 For PPIA IT Committee, our materials are:
 
 - CLI, Git, GitHub,
-- HTML, CSS JavaScript,
+- HTML, CSS, JavaScript,
 - ReactJS,
-- Python (for Django),
+- Bootstrap (or something along those lines)
 - Knowing HTTP Sessions, Request Methods, Response Status Code,
 - REST-API,
+- Python (for Django) - if you are working with backend stuffs,
 
 the rest of them are just additional materials lol
 ```
@@ -39,11 +40,11 @@ To simplify things for future updates, `Github Actions` has been created for thi
 
 <h2>Inside this module, you'll find: <a name="toc"></a></h2>
 
-1. [Basic](#basic)
-2. [Website & Network](#website)
-3. [Extra](#extra)
-4. [Cheat Sheet](cheat_sheet)
-5. [Others](#others)
+- [Basic](#basic)
+- [Website & Network](#website)
+- [Extra](#extra)
+- [Cheat Sheet](cheat_sheet)
+- [Others](#others)
 
 ---
 
@@ -51,12 +52,13 @@ To simplify things for future updates, `Github Actions` has been created for thi
 
 ### Basic Coding
 
-4. [Working with Git, and GitHub](git-github/README.md)
-5. [A quick introduction to HTML & CSS](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-6. [Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-7. [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-8. [MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
-9. [Advanced JavaScript & Javascript DOM Manipulation](https://javascript.info/)
+0. [Windows CMD and Apple Terminal](https://enexdi.sciencesconf.org/data/pages/windows_vs_mac_commands_1.pdf)
+1. [Working with Git, and GitHub](git-github/README.md)
+2. [A quick introduction to HTML & CSS](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+3. [Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+4. [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+5. [MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
+6. [Advanced JavaScript & Javascript DOM Manipulation](https://javascript.info/)
 
 ### CSS Bootstrap
 
@@ -76,17 +78,17 @@ To simplify things for future updates, `Github Actions` has been created for thi
 
 ### Network Requests
 
-1. [JavaScript XMLHttpRequest](https://javascript.info/xmlhttprequest)
-2. [Fetch-API](https://javascript.info/fetch-api) vs [Axios](https://www.npmjs.com/package//axios)
-3. [REST API](https://www.restapitutorial.com/)
-4. [GraphQl](https://www.howtographql.com/)
+5. [JavaScript XMLHttpRequest](https://javascript.info/xmlhttprequest)
+6. [Fetch-API](https://javascript.info/fetch-api) vs [Axios](https://www.npmjs.com/package//axios)
+7. [REST API](https://www.restapitutorial.com/)
+8. [GraphQl](https://www.howtographql.com/)
 
 ### Cloud Services
 
-1. Networking Fundamentals
-2. CyberSecurity
-3. Penetration Testing
-4. AWS, Azure, Google Cloud Platform
+9. Networking Fundamentals
+10. CyberSecurity
+11. Penetration Testing
+12. AWS, Azure, Google Cloud Platform
 
 ### Everything ReactJS
 
@@ -157,14 +159,16 @@ To simplify things for future updates, `Github Actions` has been created for thi
 
 #### CSS Unicorn
 
-1. [CSS](https://web.dev/learn/css/) and [SCSS](https://sass-lang.com/guide)
-2. [CSS Animations](https://javascript.info/css-animations) and [JavaScript Animations](https://javascript.info/js-animation)
+1. [CSS](https://web.dev/learn/css/)
+   - [SCSS](https://sass-lang.com/guide)
+2. [CSS Animations](https://javascript.info/css-animations)
+   - [JavaScript Animations](https://javascript.info/js-animation)
 
 #### Certification to lookout
 
-1. [UX Design Certification by Google](https://www.coursera.org/professional-certificates/google-ux-design)
-2. [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-3. [Microsoft's Azure Fundamentals (AZ-900)](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/?tab=tab-learning-paths#certification-exams)
+- [UX Design Certification by Google](https://www.coursera.org/professional-certificates/google-ux-design)
+- [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [Microsoft's Azure Fundamentals (AZ-900)](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/?tab=tab-learning-paths#certification-exams)
 
 ---
 
