@@ -46,7 +46,7 @@ This whole repo is inspired by:
 ### CSS Bootstrap
 
 1. [What is Bootstrap](https://careerfoundry.com/en/blog/web-development/what-is-bootstrap-a-beginners-guide/)
-2. [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) & [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+2. [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) & [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - although the usage is similar, most of react bootstrap is using bootstrap 4 still, since the fifth version is relatively new
 3. [Tailwind CSS](https://tailwindcss.com/)
 
 ### Everything ReactJS and MERN
@@ -56,11 +56,11 @@ This whole repo is inspired by:
 1. [Getting Started React](https://reactjs.org/docs/getting-started.html)
 2. [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 3. Intro to ReactJS from [learn-react-app](https://github.com/tyroprogrammer/learn-react-app) repository
-4. [MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
-5. [Reactstrap](https://reactstrap.github.io/) (based from bootstrap 4)
-6. [Material-UI](https://material-ui.com/) (from Google)
-7. [TDD in ReactJs](https://learntdd.in/)
-8. [Full Stack Open 2021](https://fullstackopen.com/en/)
+4. [Setting Up React and Material UI](https://cheatography.com/cashm/cheat-sheets/react-and-material-ui-project-startup/)
+5. [MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
+6. [Reactstrap](https://reactstrap.github.io/) (based from bootstrap 4)
+7. [Material-UI](https://material-ui.com/) (from Google)
+8. [TDD in ReactJs](https://learntdd.in/)
 
 ### Advanced:
 
@@ -69,6 +69,7 @@ This whole repo is inspired by:
 3. [REST API](https://www.restapitutorial.com/)
 4. GraphQl
 5. [CSS](https://web.dev/learn/css/) and [SCSS](https://sass-lang.com/guide)
+6. [Full Stack Open 2021](https://fullstackopen.com/en/)
 
 ---
 
@@ -105,6 +106,14 @@ This whole repo is inspired by:
 3. [Git Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git/)
 4. [Git Branches Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git-branches/)
 5. [Git Version History Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/vcs-workflow/)
+
+### Bootstrap Cheat Sheets
+
+1. [Bootstrap 4 Interactive List](https://hackerthemes.com/bootstrap-cheatsheet/)
+2. [Bootstrap 4 Classes List](https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/)
+3. [Bootstrap 5 Interactive List](https://bootstrap-cheatsheet.themeselection.com/)
+4. [Bootstrap 5 Classes List](https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/)
+5. [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 
 <h2>Tools<a name="tools"></a></h2>
 
