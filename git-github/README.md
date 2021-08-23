@@ -6,9 +6,9 @@
 
 ### Reading Materials:
 
-- (git - the simple guide)[https://rogerdudler.github.io/git-guide/]
-- (git commit message)[http://karma-runner.github.io/1.0/dev/git-commit-msg.html]
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+- [git commit message](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
 
 ### Extra Links:
 
-- - (git command explorer)[https://gitexplorer.com/]
+- (git command explorer)[https://gitexplorer.com/]
