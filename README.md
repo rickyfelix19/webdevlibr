@@ -23,9 +23,10 @@ To simplify things for future updates, `Github Actions` has been created for thi
 <h2>Inside this module, you'll find: <a name="toc"></a></h2>
 
 1. [Basic](#basic)
-2. [Extra](#extra)
-3. [Tools](#tools)
+2. [Website & Network](#website)
+3. [Extra](#extra)
 4. [Cheat Sheet](cheat_sheet)
+5. [Others](#others)
 
 This whole repo is inspired by:
 
@@ -35,13 +36,14 @@ This whole repo is inspired by:
 
 <h2>Basic<a name="basic"></a></h2>
 
-1. [Working with Git, and GitHub](git-github/README.md)
-2. A quick introduction to HTML & CSS
-3. [Website Optimization](https://www.git-tower.com/learn/cheat-sheets/website-optimization/)
-4. [Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-5. [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-6. [JavaScript Cont'd](https://javascript.info/)
-7. HTTP Methods and Sessions
+### Basic Coding
+
+4. [Working with Git, and GitHub](git-github/README.md)
+5. [A quick introduction to HTML & CSS](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+6. [Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+7. [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+8. [MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
+9. [Advanced JavaScript & Javascript DOM Manipulation](https://javascript.info/)
 
 ### CSS Bootstrap
 
@@ -49,46 +51,21 @@ This whole repo is inspired by:
 2. [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) & [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - although the usage is similar, most of react bootstrap is using bootstrap 4 still, since the fifth version is relatively new
 3. [Tailwind CSS](https://tailwindcss.com/)
 
-### Everything ReactJS and MERN
+<h2>Website & Network<a name="website"></a></h2>
 
-> I personally found the best way is to, use Getting Started to learn how to install to your local machine, then do `learn-react-app` then brush your ability using the official guide
+### Website
 
-1. [Getting Started React](https://reactjs.org/docs/getting-started.html)
-2. [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
-3. Intro to ReactJS from [learn-react-app](https://github.com/tyroprogrammer/learn-react-app) repository
-4. [Setting Up React and Material UI](https://cheatography.com/cashm/cheat-sheets/react-and-material-ui-project-startup/)
-5. [MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
-6. [Reactstrap](https://reactstrap.github.io/) (based from bootstrap 4)
-7. [Material-UI](https://material-ui.com/) (from Google)
-8. [TDD in ReactJs](https://learntdd.in/)
+1. [Website Optimization](https://www.git-tower.com/learn/cheat-sheets/website-optimization/)
+2. [HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+3. [HTTP Request Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+4. [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
-### Advanced:
+### Network Requests
 
-1. useful npm packages
-2. What is JavaScript Framework
+1. [JavaScript XMLHttpRequest](https://javascript.info/xmlhttprequest)
+2. [Fetch-API](https://javascript.info/fetch-api) vs [Axios](https://www.npmjs.com/package//axios)
 3. [REST API](https://www.restapitutorial.com/)
-4. GraphQl
-5. [CSS](https://web.dev/learn/css/) and [SCSS](https://sass-lang.com/guide)
-6. [Full Stack Open 2021](https://fullstackopen.com/en/)
-
----
-
-### Videos:
-
-1. [Learn the MERN Stack - Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
-
-<h2>Extra Materials:<a name="extra"></a></h2>
-
-### Testing
-
-1. [Test Driven Development (TDD)](https://github.com/dwyl/learn-tdd)
-2. UAT (User Acceptance testing)
-
-### Management & Information System
-
-1. Waterfall vs Agile vs DevOps
-2. Know your RDBMS
-3. Software Infrastructure and Architecture
+4. [GraphQl](https://www.howtographql.com/)
 
 ### Cloud Services
 
@@ -96,6 +73,34 @@ This whole repo is inspired by:
 2. CyberSecurity
 3. Penetration Testing
 4. AWS, Azure, Google Cloud Platform
+
+### Everything ReactJS
+
+> I personally found the best way is to, use Getting Started to learn how to install to your local machine, then do `learn-react-app` then brush your ability using the official guide
+
+0. [JavaScript - Promises, async/await](https://javascript.info/async)
+1. [Getting Started React](https://reactjs.org/docs/getting-started.html)
+2. [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+3. Intro to ReactJS from [learn-react-app](https://github.com/tyroprogrammer/learn-react-app) repository
+4. [Setting Up React and Material UI](https://cheatography.com/cashm/cheat-sheets/react-and-material-ui-project-startup/)
+5. [Reactstrap](https://reactstrap.github.io/) (based from bootstrap 4)
+6. [Material-UI](https://material-ui.com/) (from Google)
+7. [TDD in ReactJs](https://learntdd.in/)
+
+---
+
+<h2>Extra Materials:<a name="extra"></a></h2>
+
+### Testing
+
+1. [Test Driven Development (TDD)](https://github.com/dwyl/learn-tdd)
+2. UAT (User Acceptance Testing)
+
+### Management & Information System
+
+1. Waterfall vs Agile vs DevOps
+2. Know your RDBMS
+3. Software Infrastructure and Architecture
 
 ---
 
@@ -115,13 +120,24 @@ This whole repo is inspired by:
 4. [Bootstrap 5 Classes List](https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/)
 5. [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 
-<h2>Tools<a name="tools"></a></h2>
+<h2>Others<a name="others"></a></h2>
 
-### Website
+#### Tools:
+
+1. useful npm packages
+2. [CSS](https://web.dev/learn/css/) and [SCSS](https://sass-lang.com/guide)
+3. [CSS Animations](https://javascript.info/css-animations) and [JavaScript Animations](https://javascript.info/js-animation)
+
+#### Videos & Tutorials:
+
+1. [Learn the MERN Stack - Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
+2. [Full Stack Open 2021](https://fullstackopen.com/en/)
+
+#### Website
 
 1. [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist)
 
-### Certification to lookout
+#### Certification to lookout
 
 1. [UX Design Certification by Google](https://www.coursera.org/professional-certificates/google-ux-design)
 2. [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
