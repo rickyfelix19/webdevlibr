@@ -21,7 +21,7 @@ the rest of them are just additional materials lol
 
 <h2>Assumption<a name="assume"></a></h2>
 
-It is important to address the assumption make in this repo.
+<strong>It is important to address the assumption make in this repo.</strong>
 
 For starters, learning everything in this repo will absolutely not make you a brilliant programmer out of nowhere. These are mostly notes; just because you have this and went through all of this doesn't make you a [Unicorn](https://easternpeak.com/blog/3-in-1-developer-a-jack-of-all-trades-or-a-unicorn/). The only way to be an expert in a particular field of work is to start on a project, whether small or big. Here are some examples that you can use:
 
