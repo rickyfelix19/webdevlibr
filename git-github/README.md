@@ -2,7 +2,7 @@
 
 ![All you need to know about Github Command](../images/git_github.png 'Title')
 
-## Source: [Implement a code workflow in your build pipeline by using Git and GitHub - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/2-choose-a-code-flow-strategy)
+##### Source: [Implement a code workflow in your build pipeline by using Git and GitHub - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/2-choose-a-code-flow-strategy)
 
 ### Reading Materials:
 
