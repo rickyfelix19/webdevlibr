@@ -19,7 +19,7 @@ This whole repo is inspired by:
 
 1. [Working with Git, and GitHub](git-github/README.md)
 2. A quick introduction to HTML & CSS
-3. <a href="https://www.git-tower.com/learn/cheat-sheets/website-optimization/" target="_blank">Website Optimization</a>
+3. [Website Optimization](https://www.git-tower.com/learn/cheat-sheets/website-optimization/)
 4. [Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 5. [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 6. [JavaScript Cont'd](https://javascript.info/)
@@ -82,17 +82,17 @@ This whole repo is inspired by:
 
 <h2>Cheat Sheet:<a name="cheat_sheet"></a></h2>
 
-1. <a href="https://www.git-tower.com/learn/cheat-sheets/cli/" target="_blank">Command Line Cheat Sheet</a>
-2. <a href="https://paperhive.org/help/markdown" target="_blank">Markdown Cheat Sheet</a>
-3. <a href="https://www.git-tower.com/learn/cheat-sheets/git/" target="_blank">Git Cheat Sheet</a>
-4. <a href="https://www.git-tower.com/learn/cheat-sheets/git-branches/" target="_blank">Git Branches Cheat Sheet</a>
-5. <a href="https://www.git-tower.com/learn/cheat-sheets/vcs-workflow/" target="_blank">Git Version History Cheat Sheet</a>
+1. [Command Line Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli/)
+2. [Markdown Cheat Sheet](https://paperhive.org/help/markdown)
+3. [Git Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git/)
+4. [Git Branches Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git-branches/)
+5. [Git Version History Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/vcs-workflow/)
 
 <h2>Tools<a name="tools"></a></h2>
 
 ### Website
 
-1. <a href="https://www.toptal.com/developers/webdevchecklist" target="_blank">Web Developer Checklist</a>
+1. [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist)
 
 ### Certification to lookout
 
@@ -119,8 +119,8 @@ To make things simpler, `Github Actions` have been created for this repository, 
 
 <h2>Advices<a name="advice"></a></h2>
 
-- <a href="https://www.youtube.com/watch?v=mmqok1dJrVs" target="_blank">Watch: The Art of Finishing Project</a>
-- <a href="https://dontasktoask.com/" target="_blank">Don't ask to ask, just ask</a>
+- [Watch: The Art of Finishing Project](https://www.youtube.com/watch?v=mmqok1dJrVs)
+- [Don't ask to ask, just ask](https://dontasktoask.com/)
 - You don't have to master everything, most of this stuff here are for Web Development
 - if you're interested in somewhere else, then try it and give it a go for a couple of months (and projects)
 - Find you goal (or project), then divide it into smaller parts and spend a few hours in it everyday as your side projects
