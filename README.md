@@ -1,23 +1,27 @@
 # PPIA-Training
 
 This whole repo is inspired by:
+
 > [The Modern JavaScript](https://javascript.info/)
 
 ```md
 For PPIA IT Committee, you're materials are:
 
-- CLI, Git, and GitHub
-- HTML, CSS JavaScript
-- ReactJS
-- Python (for Django)
-- Knowing HTTP Sessions, Request Methods, Response Status Code is a bonus
+- CLI, Git, and GitHub,
+- HTML, CSS JavaScript,
+- ReactJS,
+- Python (for Django),
+- Knowing HTTP Sessions, Request Methods, Response Status Code,
+- REST-API,
+
+the rest of them are just additional materials lol
 ```
 
 [Contribution](HUMANS.txt) | [Assumption](#assume) | [Table of Contents](#toc) | [Advices](#advice)
 
 <h2>Assumption<a name="assume"></a></h2>
 
-It is important to make an assumption of this repo.
+It is important to address the assumption make in this repo.
 
 For starters, learning everything in this repo will absolutely not make you a brilliant programmer out of nowhere. These are mostly notes; just because you have this and went through all of this doesn't make you a [Unicorn](https://easternpeak.com/blog/3-in-1-developer-a-jack-of-all-trades-or-a-unicorn/). The only way to be an expert in a particular field of work is to start on a project, whether small or big. Here are some examples that you can use:
 
@@ -57,7 +61,7 @@ To simplify things for future updates, `Github Actions` has been created for thi
 ### CSS Bootstrap
 
 1. [What is Bootstrap](https://careerfoundry.com/en/blog/web-development/what-is-bootstrap-a-beginners-guide/)
-2. [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) & [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - although the usage is similar, most of react bootstrap is using bootstrap 4 still, since the fifth version is relatively new
+2. [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) & [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - although the syntax is similar, most of react bootstrap are using bootstrap 4 still, since the fifth version is relatively new
 3. [Tailwind CSS](https://tailwindcss.com/)
 
 <h2>Website & Network<a name="website"></a></h2>
