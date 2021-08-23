@@ -1,8 +1,25 @@
 # PPIA-Training
 
-[Contribution](HUMANS.txt) | [Assumption](#assume) | [Advices](#advice)
+[Contribution](HUMANS.txt) | [Assumption](#assume) | [Table of Contents](#toc) | [Advices](#advice)
 
-Inside this module, you will find:
+<h2>Assumption<a name="assume"></a></h2>
+
+It is important that this needs to be address. Learning everything in this repo will absolutely not make you a brilliant programmer out of nowhere. This are mostly notes, just because you have this and went through all of this , doesn't mean you'll suddenly become a [Unicorn](https://easternpeak.com/blog/3-in-1-developer-a-jack-of-all-trades-or-a-unicorn/). The only way possible to be an expert in a certain field is to work on a project, whether it is small or big. Here are some example that you can use:
+
+- Build a simple login and logout website (webdev)
+- Make a simple CRUD website (full stack)
+- Make a Calculator (logic)
+- Use your assignment but change the language
+- Learn Data Structures & Algorithms
+
+It is important to address the fact that almost all of the materials are only meant for Web Development(for now)
+
+`The next step of this project is to make it open source and have as many people contributing to this.`
+To make things simpler, `Github Actions` have been created for this repository, to help out with making future updates.
+
+---
+
+<h2>Inside this module, you'll find: <a name="toc"></a></h2>
 
 1. [Basic](#basic)
 2. [Extra](#extra)
@@ -101,21 +118,6 @@ This whole repo is inspired by:
 3. [Microsoft's Azure Fundamentals (AZ-900)](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/?tab=tab-learning-paths#certification-exams)
 
 ---
-
-<h2>Assumption<a name="assume"></a></h2>
-
-It is important that this needs to be address. Learning everything in this repo will absolutely not make you a brilliant programmer out of nowhere. This are mostly notes, just because you have this and went through all of this , doesn't mean you'll suddenly become a [Unicorn](https://easternpeak.com/blog/3-in-1-developer-a-jack-of-all-trades-or-a-unicorn/). The only way possible to be an expert in a certain field is to work on a project, whether it is small or big. Here are some example that you can use:
-
-- Build a simple login and logout website (webdev)
-- Make a simple CRUD website (full stack)
-- Make a Calculator (logic)
-- Use your assignment but change the language
-- Learn Data Structures & Algorithms
-
-It is important to address the fact that almost all of the materials are only meant for Web Development(for now)
-
-`The next step of this project is to make it open source and have as many people contributing to this.`
-To make things simpler, `Github Actions` have been created for this repository, to help out with making future updates.
 
 <h2>Advices<a name="advice"></a></h2>
 
