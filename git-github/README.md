@@ -4,9 +4,10 @@
 
 ##### Source: [Implement a code workflow in your build pipeline by using Git and GitHub - Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/implement-code-workflow/2-choose-a-code-flow-strategy)
 
-Click here to see how to [setup a new GitHub repo]((../temp/docs/github-setup.pdf 'github setup pdf'))
+Click here to see how to [setup a new GitHub repo](../temp/docs/github-setup.pdf 'github setup pdf')
 
 ### Reading Materials:
+
 It is somewhat the same from what is given above:
 
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
