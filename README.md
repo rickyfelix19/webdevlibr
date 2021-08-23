@@ -1,9 +1,5 @@
 # PPIA-Training
 
-This whole repo is inspired by:
-
-> [The Modern JavaScript](https://javascript.info/)
-
 ```md
 For PPIA IT Committee, our materials are:
 
