@@ -29,7 +29,7 @@ To simplify things for future updates, `Github Actions` has been created for thi
 
 This whole repo is inspired by:
 
-> The Modern JavaScript - [Github](https://github.com/javascript-tutorial/en.javascript.info/tree/master)
+> [The Modern JavaScript](https://javascript.info/)
 
 ---
 
