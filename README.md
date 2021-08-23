@@ -61,7 +61,8 @@ To simplify things for future updates, `Github Actions` has been created for thi
 ### CSS Bootstrap
 
 1. [What is Bootstrap](https://careerfoundry.com/en/blog/web-development/what-is-bootstrap-a-beginners-guide/)
-2. [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) & [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - although the syntax is similar, most of react bootstrap are using bootstrap 4 still, since the fifth version is relatively new
+2. [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) & [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+   > although the syntax is similar, most of react bootstrap are using bootstrap 4 still, since the fifth version is relatively new
 3. [Tailwind CSS](https://tailwindcss.com/)
 
 <h2>Website & Network<a name="website"></a></h2>
