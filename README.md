@@ -5,9 +5,9 @@ This whole repo is inspired by:
 > [The Modern JavaScript](https://javascript.info/)
 
 ```md
-For PPIA IT Committee, you're materials are:
+For PPIA IT Committee, our materials are:
 
-- CLI, Git, and GitHub,
+- CLI, Git, GitHub,
 - HTML, CSS JavaScript,
 - ReactJS,
 - Python (for Django),
