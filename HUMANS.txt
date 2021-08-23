@@ -9,17 +9,17 @@
 
 	Name               : Ricky Felix (Front End Designer)
 	Location           : Sydney
-  Position (in PPIA) : IT Committee (2019-2020), IT Director (2020-2021)
+    Position (in PPIA) : IT Committee (2019-2020), IT Director (2020-2021)
 	Contact            : https://linkedin.com/in/rickyfelix19/
   
 	Name               : 
 	Location           : 
-  Position (in PPIA) : 
+    Position (in PPIA) : 
 	Contact            : 
   
-  Name               : 
+    Name               : 
 	Location           : 
-  Position (in PPIA) : 
+    Position (in PPIA) : 
 	Contact            : 
 
 /* META */

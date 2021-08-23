@@ -12,7 +12,3 @@
 ### Extra Links:
 
 - - (git command explorer)[https://gitexplorer.com/]
-
----
-
-# what is .gitignore
