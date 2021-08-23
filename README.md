@@ -1,5 +1,18 @@
 # PPIA-Training
 
+This whole repo is inspired by:
+> [The Modern JavaScript](https://javascript.info/)
+
+```md
+For PPIA IT Committee, you're materials are:
+
+- CLI, Git, and GitHub
+- HTML, CSS JavaScript
+- ReactJS
+- Python (for Django)
+- Knowing HTTP Sessions, Request Methods, Response Status Code is a bonus
+```
+
 [Contribution](HUMANS.txt) | [Assumption](#assume) | [Table of Contents](#toc) | [Advices](#advice)
 
 <h2>Assumption<a name="assume"></a></h2>
@@ -27,10 +40,6 @@ To simplify things for future updates, `Github Actions` has been created for thi
 3. [Extra](#extra)
 4. [Cheat Sheet](cheat_sheet)
 5. [Others](#others)
-
-This whole repo is inspired by:
-
-> [The Modern JavaScript](https://javascript.info/)
 
 ---
 
@@ -125,17 +134,26 @@ This whole repo is inspired by:
 #### Tools:
 
 1. useful npm packages
-2. [CSS](https://web.dev/learn/css/) and [SCSS](https://sass-lang.com/guide)
-3. [CSS Animations](https://javascript.info/css-animations) and [JavaScript Animations](https://javascript.info/js-animation)
+2. [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist)
+3. Beautify, Flutter, ESLint extensions
+4. VSCode Extensions
+5. VSCode Extensions for:
+   - HTML
+   - CSS
+   - JavaScript
+   - ReactJS
+   - BootStrap 4
+   - Python (Django)
 
 #### Videos & Tutorials:
 
 1. [Learn the MERN Stack - Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
 2. [Full Stack Open 2021](https://fullstackopen.com/en/)
 
-#### Website
+#### CSS Unicorn
 
-1. [Web Developer Checklist](https://www.toptal.com/developers/webdevchecklist)
+1. [CSS](https://web.dev/learn/css/) and [SCSS](https://sass-lang.com/guide)
+2. [CSS Animations](https://javascript.info/css-animations) and [JavaScript Animations](https://javascript.info/js-animation)
 
 #### Certification to lookout
 
