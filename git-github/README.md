@@ -11,5 +11,5 @@
 
 ### Extra Links:
 
-- (git command explorer)[https://gitexplorer.com/]
+- [git command explorer](https://gitexplorer.com/)
 - Git Cheat Sheets is also available inside [main repo](../README.md)
