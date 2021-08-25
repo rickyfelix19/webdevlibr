@@ -1,5 +1,21 @@
 # PPIA-Training
 
+[Contribution](HUMANS.txt) | [Assumption](#assume) | [Learning Materials](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
+
+```md
+For PPIA IT Committee, our materials are:
+
+- CLI, Git, GitHub,
+- HTML, CSS, JavaScript,
+- ReactJS,
+- Bootstrap (or something along those lines)
+- Knowing HTTP Sessions, Request Methods, Response Status Code,
+- REST-API,
+- Python (for Django) - if you are working with backend stuffs,
+
+All of these are covered inside Web Development Basic and Web Development in MERN
+```
+
 <p>Use this, to easily jump to any topic: <a name="toc"></a></p>
 
 - [Git, GitHub, CLI](./Web-Dev/git-github/README.md)
@@ -34,22 +50,6 @@
 
 ---
 
-[Contribution](HUMANS.txt) | [Assumption](#assume) | [Table of Contents](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
-
-```md
-For PPIA IT Committee, our materials are:
-
-- CLI, Git, GitHub,
-- HTML, CSS, JavaScript,
-- ReactJS,
-- Bootstrap (or something along those lines)
-- Knowing HTTP Sessions, Request Methods, Response Status Code,
-- REST-API,
-- Python (for Django) - if you are working with backend stuffs,
-
-All of these are covered inside Web Development Basic and Web Development in MERN
-```
-
 <h2>Assumption<a name="assume"></a></h2>
 
 <strong>It is important to address the assumption make in this repo.</strong>
@@ -64,7 +64,7 @@ For starters, learning everything in this repo will absolutely not make you a br
 
 > It is vital to address that almost all of the materials here are only meant for Web Developer / Full Stack Development roles (for now). The next step of this project is to make it open source and have as many people contributing to this. Most of the materials are currently linked to another website instead of using a summary. This will also change in future updates.
 
-To simplify things for future updates, `Github Actions` has been created for this repository to help make future updates.
+To simplify things for future updates, `Github Projects` has been created for this repository to help make future updates.
 
 ---
 
