@@ -1,7 +1,5 @@
 # PPIA-Training
 
-[Contribution](HUMANS.txt) | [Assumption](#assume) | [Table of Contents](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
-
 <h2>Use this, to easily jump to any topic: <a name="toc"></a></h2>
 
 - [Git, GitHub, CLI](./Web-Dev/git-github/README.md)
@@ -35,6 +33,8 @@
    </details>
 
 ---
+
+[Contribution](HUMANS.txt) | [Assumption](#assume) | [Table of Contents](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
 
 ```md
 For PPIA IT Committee, our materials are:
