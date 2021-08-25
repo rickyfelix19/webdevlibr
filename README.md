@@ -6,55 +6,32 @@
 
 - [Git, GitHub, CLI](./Web-Dev/git-github/README.md)
    <details>
-      - Basic GitHub Commands
-      - Commit Messages
-      - SSH
-      - Cheat Sheet
+      - Basic GitHub Commands, Commit Messages, SSH, Cheat Sheet
    </details>
 
 - [Web Development Basic](./Web-Dev/README.md)
    <details> 
-      - Website & Network
-      - Basics
-      - Network Requests
-      - CSS Bootstraps
-      - Cloud Services
-      - Cheat Sheets
+      - Website & Network, Basics, Network Requests, CSS Bootstraps, Cloud Services, Cheat Sheets
    </details>
 
 - [Web Development in MERN](./Web-Dev/MERN-Stack/README.md)
    <details>
-      - JavaScript - Promises, async/await
-      - Getting Started with React
-      - React Tutorial
-      - Intro to ReactJS (learn-react-app)
-      - Material UI
-      - ReactStrap 
-      - Setting Up React and MaterialUI
-      - TDD in ReactJs
+      - JavaScript - Promises, async/await, Getting Started with React, React Tutorial, Intro to ReactJS (learn-react-app), Material UI, ReactStrap , Setting Up React and MaterialUI, TDD in ReactJs
    </details>
-
+`
 - [Testing](./Web-Dev/testing/README.md) **(underproduction)**
    <details>
-      - Test Driven Development (TDD)
-      - User Acceptance Testing (UAT)
+      - Test Driven Development (TDD), User Acceptance Testing (UAT)
    </details>
 
 - [Networking](./networking/README.md) **(underproduction)**
    <details>
-      - Networking Fundamentals
-      - CyberSecurity
-      - Penetration Testing
+      - Networking Fundamentals, CyberSecurity, Penetration Testing
    </details>
 
 - [Others](./Web-Dev/others/README.md) **(underproduction)**
    <details>
-      - CSS & SCSS
-      - CSS Animations & JavaScript Animations
-      - Waterfall vs Agile
-      - Agile vs DevOps
-      - Know your RDBMS
-      - Software Infrastructure and Architecture
+      - CSS & SCSS, CSS Animations & JavaScript Animations, Waterfall vs Agile, Agile vs DevOps, Know your RDBMS, Software Infrastructure and Architecture
    </details>
 
 ---
