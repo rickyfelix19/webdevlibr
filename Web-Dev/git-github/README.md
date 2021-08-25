@@ -10,7 +10,8 @@
 
 <h2>a Quick Intro to CLI<a name="cli"></a></h2>
 
-[Windows CMD and Apple Terminal](https://enexdi.sciencesconf.org/data/pages/windows_vs_mac_commands_1.pdf)
+- [Windows CMD and Apple Terminal](https://enexdi.sciencesconf.org/data/pages/windows_vs_mac_commands_1.pdf)
+- [Command Line Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli/)
 
 <h2>GitHub Basic Commands<a name="basic"></a></h2>
 
@@ -32,6 +33,7 @@ Click here to see how to [setup a new GitHub repo](../../temp/docs/github-setup.
 
 <h2>Cheat Sheet<a name="cheatsheet"></a></h2>
 
+- [Markdown Cheat Sheet](https://paperhive.org/help/markdown)
 - [Git Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git/)
 - [Git Branches Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git-branches/)
 - [Git Version History Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/vcs-workflow/)

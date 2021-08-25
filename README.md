@@ -21,7 +21,7 @@ Use this, to easily jump to any topic:
 
 - [Git, GitHub, CLI](./Web-Dev/git-github/README.md)
    <details>
-      - Basic GitHub Commands, Commit Messages, SSH, Cheat Sheet
+      - Basic GitHub Commands, Commit Messages, SSH, Markdown, Cheat Sheet
    </details>
 
 - [Web Development Basic](./Web-Dev/README.md)
