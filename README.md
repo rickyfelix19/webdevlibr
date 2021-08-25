@@ -1,17 +1,18 @@
 # PPIA-Training
 
-[Contribution](HUMANS.txt) | [Assumption](#assume) | [Table of Contents](#toc) | [Advices](#advice) | [Certification](#cert) | [VSCode Extensions](#extent)
+[Contribution](HUMANS.txt) | [Assumption](#assume) | [Table of Contents](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
 
 <h2>Use this, to easily jump to any topic: <a name="toc"></a></h2>
 
-- [Git, GitHub, CLI]()
+- [Git, GitHub, CLI](./Web-Dev/git-github/README.md)
    <details>
       - Basic GitHub Commands
       - Commit Messages
       - SSH
       - Cheat Sheet
    </details>
-- [Web Development Basic](#basic)
+
+- [Web Development Basic](./Web-Dev/README.md)
    <details> 
       - Website & Network
       - Basics
@@ -20,7 +21,8 @@
       - Cloud Services
       - Cheat Sheets
    </details>
-- [Web Developmend in MERN](#website)
+
+- [Web Development in MERN](./Web-Dev/MERN-Stack/README.md)
    <details>
       - JavaScript - Promises, async/await
       - Getting Started with React
@@ -31,22 +33,26 @@
       - Setting Up React and MaterialUI
       - TDD in ReactJs
    </details>
-- [Testing](#testing) **(underproduction)**
+
+- [Testing](./Web-Dev/testing/README.md) **(underproduction)**
    <details>
       - Test Driven Development (TDD)
       - User Acceptance Testing (UAT)
    </details>
-- [Networking](#network) **(underproduction)**
+
+- [Networking](./networking/README.md) **(underproduction)**
    <details>
       - Networking Fundamentals
       - CyberSecurity
       - Penetration Testing
    </details>
-- [Others](#others) **(underproduction)**
+
+- [Others](./Web-Dev/others/README.md) **(underproduction)**
    <details>
       - CSS & SCSS
       - CSS Animations & JavaScript Animations
-      - Waterfall vs Agile vs DevOps
+      - Waterfall vs Agile
+      - Agile vs DevOps
       - Know your RDBMS
       - Software Infrastructure and Architecture
    </details>
@@ -95,7 +101,7 @@ To simplify things for future updates, `Github Actions` has been created for thi
 
 ---
 
-<h2>Certification<a name="cert"></a></h2>
+<h2>Certification<a name="certs"></a></h2>
 
 - [UX Design Certification by Google](https://www.coursera.org/professional-certificates/google-ux-design)
 - [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
@@ -103,7 +109,7 @@ To simplify things for future updates, `Github Actions` has been created for thi
 
 ---
 
-<h2>VSCode Extensions<a name="extensions"></a></h2>
+<h2>VSCode Extensions<a name="extent"></a></h2>
 
 1. useful npm packages for MERN or React Stack
 2. Beautify, Flutter, ESLint extensions

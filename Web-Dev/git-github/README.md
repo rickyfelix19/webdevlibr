@@ -1,10 +1,18 @@
 # CLI, GitHub, and CLI
 
-### How to use CLI
+## Table of Contents:
+
+- [CLI](#cli)
+- [Github Basic](#basic)
+- [Commit Messages](#commit)
+- [SSH](#ssh)
+- [Cheat Sheet](#cheatsheet)
+
+<h2>a Quick Intro to CLI<a name="cli"></a></h2>
 
 [Windows CMD and Apple Terminal](https://enexdi.sciencesconf.org/data/pages/windows_vs_mac_commands_1.pdf)
 
-### Everyday Github Basic Command
+<h2>GitHub Basic Commands<a name="basic"></a></h2>
 
 ![All you need to know about Github Command](../../temp/images/git_github.png 'github command img')
 
@@ -12,17 +20,17 @@
 
 Click here to see how to [setup a new GitHub repo](../../temp/docs/github-setup.pdf 'github setup pdf')
 
-### How to commit message:
+<h2>GitHub Commit Messages<a name="commit"></a></h2>
 
 - [git commit message](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
 
-### How to use SSH:
+<h2>Github SSH<a name="ssh"></a></h2>
 
 - soon
 
 ---
 
-#### Cheat Sheet
+<h2>Cheat Sheet<a name="cheatsheet"></a></h2>
 
 - [Git Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git/)
 - [Git Branches Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/git-branches/)
