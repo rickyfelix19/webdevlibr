@@ -1,6 +1,6 @@
 # PPIA-Training
 
-<h3>Use this, to easily jump to any topic: <a name="toc"></a></h3>
+<p>Use this, to easily jump to any topic: <a name="toc"></a></p>
 
 - [Git, GitHub, CLI](./Web-Dev/git-github/README.md)
    <details>
