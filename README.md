@@ -16,7 +16,8 @@ For PPIA IT Committee, our materials are:
 All of these are covered inside Web Development Basic and Web Development in MERN
 ```
 
-<p>Use this, to easily jump to any topic: <a name="toc"></a></p>
+<h2> Learning Materials <a name="toc"></a></h2>
+Use this, to easily jump to any topic:
 
 - [Git, GitHub, CLI](./Web-Dev/git-github/README.md)
    <details>
