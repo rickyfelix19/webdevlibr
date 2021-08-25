@@ -27,7 +27,7 @@ Table of Contents:
 
 1. [A quick introduction to HTML & CSS](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 2. [Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-3. [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+3. [JSON](https://json-schema.org/learn/)
 4. [What is MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
 5. [Advanced JavaScript & Javascript DOM Manipulation](https://javascript.info/)
 
