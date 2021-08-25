@@ -1,4 +1,5 @@
 # PPIA-Training
+This whole repo is inspired by: The Modern JavaScript ( [Repo Link](https://github.com/javascript-tutorial/en.javascript.info/tree/master) & [Website Link](https://javascript.info/) )
 
 [Contribution](HUMANS.txt) | [Assumption](#assume) | [Learning Materials](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
 
