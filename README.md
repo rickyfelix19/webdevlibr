@@ -52,7 +52,7 @@ To simplify things for future updates, `Github Actions` has been created for thi
 1. [Working with Git, and GitHub](git-github/README.md)
 2. [A quick introduction to HTML & CSS](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 3. [Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-4. [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+4. [JSON](https://json-schema.org/learn/)
 5. [MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
 6. [Advanced JavaScript & Javascript DOM Manipulation](https://javascript.info/)
 
