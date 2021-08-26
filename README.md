@@ -5,7 +5,8 @@ This whole repo is inspired by: The Modern JavaScript ( [Repo Link](https://gith
 [Contribution](HUMANS.txt) | [Assumption](#assume) | [Learning Materials](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
 
 ```md
-For PPIA IT Committee, our materials are:
+This repo is initially created for PPIA IT Committee onboarding purpose. But I decided to explore ways to make it open souce and keep on updating it
+PPIA materials include:
 
 - CLI, Git, GitHub,
 - HTML, CSS, JavaScript,
