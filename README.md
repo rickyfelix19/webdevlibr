@@ -1,11 +1,8 @@
 # PPIA-Training
-This whole repo is inspired by: The Modern JavaScript ( [Repo Link](https://github.com/javascript-tutorial/en.javascript.info/tree/master) & [Website Link](https://javascript.info/) )
+This whole repo is inspired by: The Modern JavaScript ( [Repo Link](https://github.com/javascript-tutorial/en.javascript.info/tree/master) & [Website Link](https://javascript.info/) ). To create a enviornmently-friendly space and keep this as a open source project, this repo is protected under:
+[CC-BY-NC License](./license.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 [Contribution](HUMANS.txt) | [Assumption](#assume) | [Learning Materials](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
-
-> To create a enviornmently-friendly space and keep this as a open source project, this repo is protected under:
-> [CC-BY-NC License](./license.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)
-
 
 ```md
 For PPIA IT Committee, our materials are:
