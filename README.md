@@ -3,6 +3,8 @@ This whole repo is inspired by: The Modern JavaScript ( [Repo Link](https://gith
 
 [Contribution](HUMANS.txt) | [Assumption](#assume) | [Learning Materials](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
 
+This repo is protected under CC-BY-NC License. For more information, click [here](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+
 ```md
 For PPIA IT Committee, our materials are:
 
