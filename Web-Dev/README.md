@@ -27,7 +27,7 @@ Table of Contents:
 5. [What is MongoDB(noSQL)](https://www.mongodb.com/what-is-mongodb)
 6. [Advanced JavaScript & Javascript DOM Manipulation](https://javascript.info/)
 
-<h3>A quick intro to HTML, CSS, JS<a name="requests"></a></h3>
+<h3>Network Request<a name="requests"></a></h3>
 
 7. [JavaScript XMLHttpRequest](https://javascript.info/xmlhttprequest)
 8. [Fetch-API](https://javascript.info/fetch-api) or [Axios](https://www.npmjs.com/package//axios)
