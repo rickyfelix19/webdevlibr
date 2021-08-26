@@ -51,7 +51,7 @@ Table of Contents:
 
 ---
 
-<h3>Cheat Sheet:<a name="cheatsheet"></a></h3>
+<h2>Cheat Sheet:<a name="cheatsheet"></a></h3>
 
 ### Bootstrap Cheat Sheets
 
