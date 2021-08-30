@@ -1,23 +1,8 @@
 # Web Dev Library
-This whole repo is inspired by: The Modern JavaScript ( [Repo Link](https://github.com/javascript-tutorial/en.javascript.info/tree/master) & [Website Link](https://javascript.info/) ). To create a enviornmently-friendly space and keep this as a open source project, this repo is protected under:
-[CC-BY-NC License](./license.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)
-
 [Contribution](HUMANS.txt) | [Assumption](#assume) | [Learning Materials](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
 
-```md
-This repo is initially created for PPIA IT Committee onboarding purpose. But I decided to explore ways to make it open souce and keep on updating it
-PPIA materials include:
-
-- CLI, Git, GitHub,
-- HTML, CSS, JavaScript,
-- ReactJS,
-- Bootstrap (or something along those lines)
-- Knowing HTTP Sessions, Request Methods, Response Status Code,
-- REST-API,
-- Python (for Django) - if you are working with backend stuffs,
-
-All of these are covered inside Web Development Basic and Web Development in MERN
-```
+This whole repo is inspired by: The Modern JavaScript ( [Repo Link](https://github.com/javascript-tutorial/en.javascript.info/tree/master) & [Website Link](https://javascript.info/) ). To create a enviornmently-friendly space and keep this as a open source project, this repo is protected under:
+[CC-BY-NC License](./license.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 <h2> Learning Materials <a name="toc"></a></h2>
 Use this, to easily jump to any topic:
