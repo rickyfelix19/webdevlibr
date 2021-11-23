@@ -1,6 +1,6 @@
 # Project Management
 
-click [here]('./Simposium - Project Planning v 0.2.0.pdf') to check the example docs
+click [here](./Simposium - Project Planning v 0.2.0.pdf) to check the example docs
 
     It is important that early on to create a team and identify project objectives.
 
