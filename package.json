@@ -1,6 +1,6 @@
 {
-  "name": "webdev-lib",
-  "version": "1.0.0",
+  "name": "webdevlibr",
+  "version": "0.2.0",
   "description": "full stack development",
   "main": "index.js",
   "scripts": {
