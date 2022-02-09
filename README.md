@@ -1,8 +1,9 @@
 # Web Dev Library
+
 [Contribution](HUMANS.txt) | [Assumption](#assume) | [Learning Materials](#toc) | [Advices](#advice) | [Certification](#certs) | [VSCode Extensions](#extent)
 
 > This whole repo is inspired by: The Modern JavaScript ( [Repo Link](https://github.com/javascript-tutorial/en.javascript.info/tree/master) & [Website Link](https://javascript.info/) ). To create a enviornmently-friendly space and keep this as a open source project, this repo is protected under:
-[CC-BY-NC License](./license.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)
+> [CC-BY-NC License](./license.md) and [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 <h2> Learning Materials <a name="toc"></a></h2>
 Use this, to easily jump to any topic:
@@ -19,17 +20,17 @@ Use this, to easily jump to any topic:
 
 - [Web Development in MERN](./Web-Dev/MERN-Stack/README.md)
    <details>
-      - JavaScript - Promises, async/await, Getting Started with React, React Tutorial, Intro to ReactJS (learn-react-app), Material UI, ReactStrap , Setting Up React and MaterialUI, TDD in ReactJs
+      - JavaScript - Promises, async/await, Getting Started with React, React Tutorial, Intro to ReactJS (learn-react-app), Material UI, ReactStrap , Setting Up React and Material UI
    </details>
 
 - [Testing](./Web-Dev/testing/README.md) **(underproduction)**
    <details>
-      - Test Driven Development (TDD), User Acceptance Testing (UAT)
+      - Test Driven Development (TDD), Unit Testing, and User Acceptance Testing (UAT)
    </details>
 
-- [Networking](./networking/README.md) **(underproduction)**
+- [Web Security ( Programming Side )](./networking/README.md) **(underproduction)**
    <details>
-      - Networking Fundamentals, CyberSecurity, Penetration Testing
+      - Networking Fundamentals, Web Security
    </details>
 
 - [Others](./Web-Dev/others/README.md) **(underproduction)**
