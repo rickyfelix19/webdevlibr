@@ -70,6 +70,7 @@ Documentation:
 
 - [Nielsen Norman Group](https://www.nngroup.com/)
 - [Interaction Design Org](https://www.interaction-design.org/)
+- [Laws of UX](https://lawsofux.com)
 
 Blogs:
 
